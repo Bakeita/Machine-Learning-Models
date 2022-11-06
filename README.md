@@ -1,3 +1,4 @@
-# SimpleLinearRegerssion
+# Machine Learning Models 
 
-Simple demo of linear regression using numpy,pandas and matplotlib for Visualization
+Simple demo of some known machine learning models without using any framework.
+
